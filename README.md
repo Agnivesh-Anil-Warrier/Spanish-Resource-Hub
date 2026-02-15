@@ -12,6 +12,7 @@ Welcome to the central repository for our community's collective knowledge. This
 | Resource | Description |
 | :--- | :--- |
 | [Duolingo Progression Guide](https://www.reddit.com/r/duolingo/comments/1i2m75a/i_finished_spanish_in_375_days_please_read_my/) | A detailed roadmap on how to progress through a language tree in optimally shorter time period. |
+| [Duolingo Vocab List](https://duome.eu/vocabulary/en/es/skills) | A comprehensive list having most if not all words from Duolingo along with audio |
 
 ---
 
